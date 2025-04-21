@@ -25,7 +25,7 @@ The data formats are documented below.
 
 The files are maintained in [YAML](http://www.yaml.org/) format in the main branch of this project. YAML is a serialization format similar in structure to JSON but typically written with one field per line. Like JSON, it allows for nested structure. Each level of nesting is indicated by indentation or a dash. CSV and JSON formatted files are also provided in the `gh-pages` branch --- they're linked above.
 
-This database is maintained through a combination of manual edits by volunteers (from [GovTrack](https://www.govtrack.us), [ProPublica](https://projects.propublica.org/represent/), [MapLight](https://maplight.org/), [FiveThirtyEight](https://fivethirtyeight.com/), and others) and automated imports from a variety of sources including:
+This database is maintained through a combination of manual edits by volunteers (from [GovTrack](https://www.govtrack.us), [MapLight](https://maplight.org/), and others) and automated imports from a variety of sources including:
 
 * GovTrack.us (http://www.govtrack.us).
 * The Congressional Biographical Directory (http://bioguide.congress.gov).
